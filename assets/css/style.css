@@ -16,13 +16,19 @@ header h1{
  header nav{
      margin: 7px 0;
  }
- header nav ul li{
-     display: inline;
+
+ header nav ul li a {
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 1.55vw;
 }
-header nav ul li a{
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 26px;
+
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
 }
 
 header{
