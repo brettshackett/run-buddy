@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://brettshackett.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [Brett Shackett]
 
 ### ©️2019 Run Buddy, Inc 
